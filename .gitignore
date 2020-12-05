@@ -1,0 +1,17 @@
+flaskdatabase.txt
+*.log
+include/
+Lib/
+Scripts/
+*.cfg
+*.pyc
+images/
+flaskdatabase.csv
+chromedriver.exe
+env/
+.ipynb_checkpoints/
+TrainAndValid.csv/
+bulldozerproject/data/data/train_tmp.csv
+bulldozerproject/data/data/TrainAndValid.csv
+bulldozerproject/data/train_tmp.csv
+bulldozerproject/data/TrainAndValid.csv
